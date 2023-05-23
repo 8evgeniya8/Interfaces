@@ -1,6 +1,6 @@
 package Tsukanova;
 
-public class iPhones implements Smartphones,IOS {
+public class IPhones implements Smartphones,IOS {
     @Override
     public void call() {
         System.out.println("Дзвінок iPhone: ");

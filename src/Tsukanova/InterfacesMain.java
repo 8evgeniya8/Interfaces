@@ -20,7 +20,7 @@ public class InterfacesMain {
         android.internet();
         android.linux();
 
-        iPhones iPhone = new iPhones();
+        IPhones iPhone = new IPhones();
         iPhone.call();
         iPhone.sms();
         iPhone.internet();
